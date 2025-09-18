@@ -9,3 +9,16 @@ Q2: What field could data science be applied to? Give an Example.
 Answer: [Data science can be applied in many fields, for example it can be used in healthcare. We can use it to analyze
 patient records in order to predict diseases earlier. An example can be Building a machine learning model 
 that analyzes X-rays to detect pneumonia faster and more accurately]
+
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: [Merging combines two branches together and keeps the full history, while rebasing moves your changes on
+ top of another branch to make the history look cleaner and linear.]
+
+
+ Q4: What are you looking forward to this semester?
+
+Answer: [I am looking foward to working with python and learning as much as I can.
+I want to be able to apply what I learned in this course to real life projects I work on]
